@@ -16,7 +16,7 @@ Get Next Line Project in 42
 
 The Get Next Line project in the 42 curriculum focuses on implementing a function that reads and returns a line from a file descriptor, stdin, or even a network connection. The goal of the project is to learn how to manage memory efficiently and handle file input/output operations without using standard library functions like `getline`. This custom implementation is essential for mastering core C programming concepts such as buffer handling, dynamic memory allocation, and file management.
 
-Why Implement Get Next Line?
+Why Implement Get Next Line ?
 
 In the 42 curriculum, students are encouraged to create their own versions of commonly used functions to better understand their inner workings. The Get Next Line project is designed to teach how to handle buffers, implement memory management techniques, and manage reading operations across various input sources. This project also emphasizes creating efficient, modular, and reusable code that is compliant with strict coding norms. By the end of the project, students will have a deeper understanding of file input/output and memory operations.
 
